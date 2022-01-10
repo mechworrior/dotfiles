@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ni.tony.ym@gmail.com
+	name = Tony Ni
